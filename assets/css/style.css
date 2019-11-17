@@ -14,6 +14,10 @@ a:hover {
     text-decoration: none;
 }
 
+.container-fluid {
+    max-width: 1800px;
+}
+
 .main {
     background: 
     linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.4)),
@@ -35,7 +39,7 @@ a:hover {
 
 .profile-content {
     opacity: .9;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 span {
@@ -43,8 +47,8 @@ span {
 }
 
 .profile-project {
-    height: 10%;
-    width: 10%;
+    height: 8%;
+    width: 8%;
 }
 
 .progress {
