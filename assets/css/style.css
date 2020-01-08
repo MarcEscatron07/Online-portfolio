@@ -37,9 +37,9 @@ a:hover {
     border-bottom: 6px solid #0060c7;
 }
 
-.profile-content {
+.profile-content p {
     opacity: .9;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 span {
@@ -47,8 +47,8 @@ span {
 }
 
 .profile-project {
-    height: 8%;
-    width: 8%;
+    height: 3.5rem;
+    width: 3.5rem;
 }
 
 .progress {
